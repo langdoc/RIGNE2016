@@ -211,6 +211,15 @@ $(document).ready(function () {
 <div id="rigne2016" class="section level1">
 <h1>RIGNE2016</h1>
 <p>Webpage for the conference on «Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia», Murmansk 2016</p>
+<div id="note-for-writers" class="section level2">
+<h2>Note for writers</h2>
+<p>The gh-pages branch is most conveniently updated by editing markdown files and running:</p>
+<pre><code>Rscript build.R</code></pre>
+<p>After which the master is committed as usual, but the gh-pages branch can be pushed like this:</p>
+<pre><code>git subtree push --prefix _site origin gh-pages</code></pre>
+<p>Inbetween the website can be viewed in _site folder. R is used to simplify the transformation from Markdown to HTML, so R package <a href="https://cran.r-project.org/web/packages/rmarkdown/rmarkdown.pdf">rmarkdown</a> has to be installed. It can be installed with following R command:</p>
+<pre><code> install.packages(&quot;rmarkdown&quot;)</code></pre>
+</div>
 </div>
 
 <hr>
