@@ -16,13 +16,14 @@ Organized within the framework of the Regional Interest Group «Northern Eurasia
 
 Murmansk Arctic State University, Murmansk, Russia
 
+</br>
 <center>
 <figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test" style="width:700px">
-</br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test">
 <!--<figcaption>Interview with Paš Kolya, a former resident of Syordla village, who passed away on 8.6.2015</figcaption>-->
 </figure>
 </center>
+</br>
 
 ### Международная научно-практическая конференция «Документация, стандартизация и преподавание исчезающих языков Северной Евразии» 
 

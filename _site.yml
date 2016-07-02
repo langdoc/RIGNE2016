@@ -1,5 +1,4 @@
 name: "RIGNE2016"
-output_dir: "."
 navbar:
   title: "RIGNE 2016"
 output:
