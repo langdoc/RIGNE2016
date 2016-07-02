@@ -2,15 +2,6 @@
 ---
 
 </br>
-<!--
-<center>
-<figure>
-<img src="media/images/sordla_2012.jpg" alt="At Nina Pigulina's in Syordla, 2012" style="width:700px">
-</br>
-<figcaption>Interview with Paš Kolya, a former resident of Syordla village, who passed away on 8.6.2015</figcaption>
-</figure>
-</center>
--->
 </br>
 
 ### International scientific conference «Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia» 
@@ -24,6 +15,14 @@ Organized within the framework of the Regional Interest Group «Northern Eurasia
 #### Venue
 
 Murmansk Arctic State University, Murmansk, Russia
+
+<center>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test" style="width:700px">
+</br>
+<!--<figcaption>Interview with Paš Kolya, a former resident of Syordla village, who passed away on 8.6.2015</figcaption>-->
+</figure>
+</center>
 
 ### Международная научно-практическая конференция «Документация, стандартизация и преподавание исчезающих языков Северной Евразии» 
 
