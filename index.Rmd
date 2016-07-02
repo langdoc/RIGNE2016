@@ -8,31 +8,24 @@
 
 Organized within the framework of the Regional Interest Group «Northern Eurasia» of the Foundation for Endangered Languages (FEL)
 
-#### Date
-
-25–26 November 2016
-
-#### Venue
-
-Murmansk Arctic State University, Murmansk, Russia
-
-</br>
-<center>
-<figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test">
-<!--<figcaption>Interview with Paš Kolya, a former resident of Syordla village, who passed away on 8.6.2015</figcaption>-->
-</figure>
-</center>
-</br>
-
 ### Международная научно-практическая конференция «Документация, стандартизация и преподавание исчезающих языков Северной Евразии» 
 
 Проводится в рамках работы региональной группы «Северная Евразия» Фонда (документации) исчезающих языков (FEL)
 
-#### Сроки проведения
 
-25–26 ноября 2016 г.
+#### Date / Сроки проведения
 
-#### Место проведения
+25–26.11.2016
 
-Мурманский арктический государственный университет, г. Мурманск, Россия 
+#### Venue / Место проведения
+
+Murmansk Arctic State University, Murmansk, Russia / Мурманский арктический государственный университет, г. Мурманск, Россия 
+
+</br>
+<center>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test" style="width:700px">
+<!--<figcaption>Interview with Paš Kolya, a former resident of Syordla village, who passed away on 8.6.2015</figcaption>-->
+</figure>
+</center>
+</br>
