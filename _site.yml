@@ -1,7 +1,7 @@
-name: "langdoc"
+name: "RIGNE2016"
 output_dir: "."
 navbar:
-  title: "Language Documentation"
+  title: "RIGNE 2016"
 output:
   html_document:
     highlight: textmate
