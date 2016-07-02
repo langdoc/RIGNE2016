@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.0/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5,h6",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.9em;
+  padding-left: 5px;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Regional Interest Group «Northern Eurasia»</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="eng.html">English</a></li>
+        <li><a href="rus.html">По-русский</a></li>
+<!-- These come back later
+           <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Subpages</a>
+                <ul class="dropdown-menu">
+            <li><a href="http://izvakomi.github.io/">Iźva Komi Documentation Project</a></li>
+            <li><a href="http://langdoc.github.io/downrivervashka">Down River Vashka</a></li>
+            <li><a href="http://nikopartanen.github.io/sle2016partanen">Niko Partanen's SLE 2016 paper</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Micha's conference page</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li> -->
+      </ul>
+<!--      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://github.com/langdoc">GitHub</a></li>
+      </ul> -->
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p></br> </br></p>
+<div id="-" class="section level2">
+<h2>Сроки проведения</h2>
+<p>25–26 ноября 2016 г.</p>
+</div>
+<div id="-" class="section level2">
+<h2>Место проведения</h2>
+<p>Мурманский арктический государственный университет, г. Мурманск, Россия</p>
+</div>
+<div id="-" class="section level2">
+<h2>Приглашенные докладчики</h2>
+<p>будет указано дополнительно</p>
+</div>
+<div class="section level2">
+<h2>Организаторы</h2>
+<p>Ольга Иванищева, Лаборатория саамского языка, Мурманский арктический государственный университет, Россия; Тьерд де Грааф, Центр российских исследований, университет г. Гронинген, Голландия; Михаэль Рисслер, исследовательская группа по изучению саамских языков, университет г. Фрайбург, Германия. Оргкомитет Рохир Блокланд, Финно-угорское отделение, университет г. Уппсала, Швеция; Александра Эрштадт, Лаборатория саамского языка, Мурманский арктический государственный университет, Россия; Марина Федина, Межрегиональная лаборатория информационной поддержки функционирования финно-угорских языков, Коми республиканская академия государственной службы и управления, Россия; Марина Люблинская, Институт лингвистических исследований РАН, г. Санкт-Петербург, Россия; Реетта Тойванен, Институт международного права и прав человека им. Эрика. Кастрена, университет г. Хельсинки, Финляндия.</p>
+</div>
+<div class="section level2">
+<h2>Контакты</h2>
+<p>Александра Эрштадт [<a href="mailto:alexandra.ershtadt@gmail.com">alexandra.ershtadt@gmail.com</a>] Михаэль Рисслер [<a href="mailto:m.riessler@gmail.com">m.riessler@gmail.com</a>]</p>
+</div>
+<div class="section level2">
+<h2>График</h2>
+<p>2016-04-30 Первое информационное письмо 2016-05-31 Второе информационное письмо 2016-07-31 Крайний срок подачи тезисов 2016-08-31 Уведомление о принятии тезисов к участию 2016-09-30 Подготовка и публикация программы конференции 2016-11-10 Крайний срок подачи текстов докладов (предварительная версия) 2016-11-25 Начало работы конференции 2016-11-26 Окончание работы конференции 2016-11-30 Крайний срок подачи текстов докладов (окончательная версия) 2017-01-31 Публикация материалов конференции</p>
+</div>
+<div class="section level2">
+<h2>Описание</h2>
+<p>Целью работы Фонда (документации) исчезающих языков (<a href="http://www.ogmios.org/" class="uri">http://www.ogmios.org/</a>) является оказание поддержки и содействия работе по документации, сохранению и развитию исчезающих языков во всем мире. Одним из путей достижения этой цели является совместная работа специалистов в региональных группах, включающих представителей сообществ носителей исчезающих языков определенной географической области.</p>
+<p>Целью проведения международной научно-практической конференции в г. Мурманск является организация такой группы для Северной Евразии с целью изучения и работы с исчезающими языками арктических и субарктических регионов, расположенных между Фенноскандией и Тихоокеанским кольцом. В настоящее время множество языков коренных народов данного региона находятся в крайне уязвимом положении и могут исчезнуть, если в кратчайшие сроки не будут приняты эффективные меры по их документации, сохранению и ревитализации.</p>
+<p>Документация языков, языковое планирование и преподавание языков являются областями различных направлений прикладной лингвистики, однако в случае исчезающих языков ввиду недостаточности материалов и ресурсов для проведения исследований они обычно тесно переплетаются в работе немногочисленных проектов, исследовательских организаций и научных объединений. С другой стороны, постоянное взаимодействие на стыке этих областей уже имеет полезный взаимоусиливающий эффект, обеспечивающий методологические и теоретические преимущества для каждой из этих областей в отдельности.</p>
+<p>Центром внимания научно-практической конференции станут прикладные исследования языков коренных народов. К участию приглашаются особенно исследователи, занимающиеся документацией исчезающих языков Северной Евразии, их сохранением и ревитализацией. Особый интерес будет представлять опыт сотрудничества местных исследователей со специалистами по документации языков, языковому планированию и преподаванию языков.</p>
+<p>Научно-практическая конференция проводится в результате сотрудничества научно-образовательных учреждений России и Голландии, а именно Мурманского арктического государственного университета и Центра исследований Меркатора при Фризской академии, отделения фризского языка и культуры и Центра российских исследований университета г. Гронингена. Проведение конференции позволит установить новые связи и укрепить существующие побратимские отношения между городами Мурманск и Гронинген.</p>
+<p>Выступления на конференции могут быть представлены как на русском, так и на английском языке, регламент – 30 минут, обсуждение и вопросы – 10 минут. Организаторами будут рассмотрены все тезисы, полученные по электронной почте до конца августа 2016 года. В случае, если количество представленных тезисов превысит количество возможных докладов на конференции, будет осуществлен их отбор с учетом качества представленных материалов. Объем тезисов, исключая список литературы, не должен превышать 500 слов.</p>
+<p>Программа конференции будет подготовлена с учетом принятых к участию тезисов и выступлений приглашенных докладчиков и представлена осенью 2016 года.</p>
+</div>
+
+<hr>
+<p>Copyright &copy; 2016 CC-BY Michael Rießler & Niko Partanen</p>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
