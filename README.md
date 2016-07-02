@@ -1,6 +1,6 @@
 # RIGNE2016
 
-Webpage for the conference on «Documentation,  Standardization  and  Teaching  of  Endangered  Languages  in Northern Eurasia», Murmansk 2016
+Webpage for the conference on [«Documentation,  Standardization  and  Teaching  of  Endangered  Languages  in Northern Eurasia»](https://langdoc.github.io/RIGNE2016/), Murmansk 2016
 
 ## Note for writers
 
