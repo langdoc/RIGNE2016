@@ -1,0 +1,10 @@
+name: "langdoc"
+output_dir: "."
+navbar:
+  title: "Language Documentation"
+output:
+  html_document:
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
