@@ -3,28 +3,24 @@
 
 </br>
 
-### International scientific conference «Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia» 
+<center>
 
-Organized within the framework of the Regional Interest Group «Northern Eurasia» of the Foundation for Endangered Languages (FEL)
+#### International scientific conference 
+### [Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia](http://langdoc.github.io/RIGNE2016/eng.html)
 
-### Международная научно-практическая конференция «Документация, стандартизация и преподавание исчезающих языков Северной Евразии» 
+#### [Murmansk Arctic State University](http://www.mspu.edu.ru) 
+#### 25.–26.11.2016
+#### [Мурманский арктический государственный университет](http://www.mspu.edu.ru)
 
-Проводится в рамках работы региональной группы «Северная Евразия» Фонда (документации) исчезающих языков (FEL)
-
-
-#### Date / Сроки проведения
-
-25–26.11.2016
-
-#### Venue / Место проведения
-
-Murmansk Arctic State University, Murmansk, Russia / Мурманский арктический государственный университет, г. Мурманск, Россия 
+### [Документация, стандартизация и преподавание исчезающих языков Северной Евразии](http://langdoc.github.io/RIGNE2016/rus.html)
+#### Международная научно-практическая конференция 
 
 </br>
-<center>
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test" style="width:700px">
-<!--<figcaption>Interview with Paš Kolya, a former resident of Syordla village, who passed away on 8.6.2015</figcaption>-->
+<figcaption>Photo by Michael Rießler (Own work) [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org)</figcaption>
 </figure>
 </center>
 </br>
+
+
