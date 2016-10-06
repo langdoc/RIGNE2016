@@ -1,0 +1,42 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 6
+---
+
+</br>
+</br>
+
+## Conference
+
+[Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia](http://langdoc.github.io/RIGNE2016/eng.html)
+
+International scientific conference organized within the framework of the Regional Interest Group «Northern Eurasia» of the Foundation for Endangered Languages (FEL)
+
+## Date
+
+Murmansk, 25–26 November 2016
+
+## Venue
+
+[Murmansk Arctic State University](http://www.mspu.edu.ru), Murmansk, Russia
+
+## Programme
+
+The conference coincides with the Film & TV Festival "Northern Character" taking place from 24-26 November 2016 in Murmansk. Participants are invited to a presentation of a documentary film. After the conference, particpants are invited to an excursion to Lovozero. 
+
+### 24 November 2016 (pre-conference programme)
+
+### 25 November 2016 (1st conference day)
+
+### 26 November 2016 (2nd conference day)
+
+### 26 November 2016 (post-conference programme)
+
+
+## Contact
+
+* Alexandra Ershtadt [alexandra.ershtadt@gmail.com]
+* Michael Rießler [m.riessler@gmail.com]
