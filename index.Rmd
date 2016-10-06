@@ -18,7 +18,7 @@
 </br>
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Blackboard-kildin.jpg" alt="test" style="width:700px">
-<figcaption>Photo by Michael Rießler (Own work) [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org)</figcaption>
+<figcaption>Photo by Michael Rießler [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org)</figcaption>
 </figure>
 </center>
 </br>
