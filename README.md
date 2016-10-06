@@ -4,7 +4,7 @@ Webpage for the conference on [«Documentation,  Standardization  and  Teaching 
 
 ## Note for writers
 
-The gh-pages branch is most conveniently updated by editing markdown files and running:
+The gh-pages branch is most conveniently updated by editing the markdown files and running:
 
     Rscript build.R
 
@@ -12,6 +12,6 @@ After which the master is committed as usual, but the gh-pages branch can be pus
 
     git subtree push --prefix _site origin gh-pages
 
-Inbetween the website can be viewed in _site folder. R is used to simplify the transformation from Markdown to HTML, so R package [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/rmarkdown.pdf) has to be installed. It can be installed with following R command:
+Locally, the website files can also be opened from the _site folder. R is used to simplify the transformation from Markdown to HTML, therefore the R package [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/rmarkdown.pdf) has to be installed. You can installed this package with the following R command:
 
      install.packages("rmarkdown")
