@@ -9,113 +9,120 @@ output:
 </br>
 </br>
 
-## Conference
+## Конференция
 
-[Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia](http://langdoc.github.io/RIGNE2016/eng.html)
+[Документация, стандартизация и преподавание исчезающих языков Северной Евразии](http://langdoc.github.io/RIGNE2016/rus.html)
 
-International scientific conference organized within the framework of the Regional Interest Group «Northern Eurasia» of the Foundation for Endangered Languages (FEL)
+Международная научно-практическая конференция проводится в рамках работы региональной группы «Северная Евразия» Фонда (документации) исчезающих языков (FEL)
 
-## Date
 
-Murmansk, 25–26 November 2016
+## Сроки проведения
 
-## Venue
+25–26 ноября 2016 г.
 
-[Murmansk Arctic State University](http://www.mspu.edu.ru), Murmansk, Russia
 
-## Contact
+## Место проведения
 
-* Alexandra Ershtadt [alexandra.ershtadt@gmail.com]
-* Michael Rießler [m.riessler@gmail.com]
+[Мурманский арктический государственный университет](http://www.mspu.edu.ru), г. Мурманск, Россия 
 
-## Programme
 
-The conference coincides with the Film & TV Festival "Northern Character" taking place from 24-26 November 2016 in Murmansk. Participants are invited to a presentation of a documentary film on the evening before the conference. After the conference, we are organizing an excursion to Lovozero.
+## Контакты
 
-### 24 November 2016
+* Александра Эрштадт [alexandra.ershtadt@gmail.com]
+* Михаэль Рисслер [m.riessler@gmail.com]
 
-Pre-conference programme
 
-Film documentary (place and time t.b.a)
+## Программа
 
-### 25 November 2016
+Конференция проходит одновременно с международным фестивалем документальных фильмов и телевизионных программ с участием северных стран "[Северный характер](http://northchar.ru/festival_/)", который проводится в г. Мурманске в период с 24 по 26 ноября 2016 г. Участники конференции приглашаются на презентацию документального фильма вечером дня, предшествующего дню начала работы конференции. После завершения конференции состоится экскурсия в с. Ловозеро. 
 
-Conference day
+### 24 ноября 2016 г.
 
-##### 09:00 Opening speeches
+Культурная программа
 
-Murmansk Arctic State University, City-twinning Murmansk-Groningen and Fryske Academy
+Просмотр документального фильма (место и время будут уточнены) 
 
-##### 09:30 Plenary speech
 
-Marina Ljublinskaya and Maria Dugina (St. Petersburg)
+### 25 ноября 2016 г. 
+
+Начало работы конференции
+
+#### 09:00 Вступительное слово
+
+Мурманский арктический государственный университет, города-побратимы Мурманск и Гронинген и Фризская академия 
+
+
+#### 09:30 Пленарное выступление
+
+Люблинская М.Д., к.ф.н, Дугина М., Российский государственный педагогический университет им. А.И. Герцена (г. Санкт-Петербург)
 
 "Teaching of Northern Indigenous Languages at Gercen University"
 
-Chair: Olga Ivanischeva
+Председатель: Иванищева О.Н., д.ф.н., профессор, Мурманский арктический государственный университет (г. Мурманск) 
 
-#### 10:30–11:00 Break
+#### 10:30–11:00 Перерыв
 
-#### 11:00–13:00 Session
+#### 11:00–13:00 Секция
 
-Chair: Michael Rießler
+Председатель: Рисслер М., д.ф.н., Университет Алберта Лудвига (г. Фрайбург, Германия)
 
-##### 11:00 A. D. Kaksin (Abakan)
-
-Проблемы перевода общественно-политической лексики на языки малочисленных народов Российской Федерации (на примере хантыйского языка)
-
-##### 11:30 В. Г. Белолюбская, А. А. Винокурова, С. Д. Винокурова, Н. П. Николаева (Yakutsk)
-
-Лексика, отражающая охотничью культуру эвенов и эвенков
-
-##### 12:00 Tim Feist (Gilford)
-
-Data visualisations as a pedagogical tool
-
-#### 12:30–13:30 Lunch
-
-#### 13:30–15:00 Session
-
-Chair: Rogier Blokland
-
-##### 13:30 Olga Kazakevich (Moscow)
+##### 11:00 Казакевич О.А., к.ф.н., Институт языкознания РАН (г. Москва) 
 
 Evenki local dialects of Irkutsk region: current linguistic situation and future prospectives
 
-##### 14:00 T. B. Agranat (Moscow)
+##### 11:30 Белолюбская В.Г., к.ф.н., Винокурова А.А., к.ф.н., Винокурова С.Д., Николаева Н.П., Северо-восточный федеральный университет имени М.К. Аммосова (г. Якутск)
 
-Документирование идиома печорских сето
+Лексика, отражающая охотничью культуру эвенов и эвенков
 
-##### 14:30 Evgeniya Zhivotova (Leipzig)
+##### 12:00 Животова Е, MA, Лейпцигский университет (г. Лейпциг, Германия) 
 
-Роль документации быстринского говора эвенского языка на примере заимствований служебных слов в ситуации языкового контакта
+Роль документации быстринского говора эвенского языка на примере заимствований служебных слов в ситуации языкового контакта
 
-#### 15:00–15:30 Break
+#### 12:30–13:30 Обед
 
-#### 15:30–17:00 Session
+#### 13:30–15:00 Секция
 
-Chair: Alexandra Ershtadt
+Председатель: Тьерд де Граф, PhD, Фризская академия (г. Леуварден, Нидерланды)
 
-##### 15:30 Yulia Normanskya (Moscow)
+##### 13:30 Иванищева О.Н., Эрштадт, А.М., к.ф.н., Мурманский арктический государственный университет (г. Мурманск) 
+
+(будут уточнены)
+
+##### 14:00 Феист Т., PhD, Университет Суррея (г. Гилфорд, Англия) 
+
+Data visualisations as a pedagogical tool
+
+##### 14:30 Норманская Ю.В., д.ф.н., профессор, Институт языкознания РАН (г. Москва) 
 
 Язык первого кильдинского Евангелия  в сравнении с современными кильдинскими говорами
 
-##### 16:30 ??
+#### 15:00–15:30 Перерыв
 
-(Open slot)
+#### 15:30–17:00 Секция
 
-##### 16:30 Alexandre Arkhipov (Hamburg)
+Председатель: Эрштадт А.М., к.ф.н., Мурманский арктический государственный университет (г. Мурманск)
+
+##### 15:30 Агранат Т.Б., д.ф.н., профессор, Институт языкознания РАН (г. Москва) 
+
+Документирование идиома печорских сето
+
+##### 16:30 Каксин А.Д, д.ф.н., профессор  Хакасский государственный университет им. Н.Ф. Катанова, Институт гуманитарных исследований и саяно-алтайской тюркологии (г. Абакан) 
+
+Проблемы перевода общественно-политической лексики на языки малочисленных народов Российской Федерации (на примере хантыйского языка)
+
+##### 16:30 Архипов А.В., к.ф.н., Гамбургский университет (г. Гамбург, Германия) 
 
 The INEL project: Research infrastructure for Northern Eurasian languages
 
-#### 17:00–18:00 General discussion and foundation meeting of the Regional Interest Group «Northern Eurasia»
+#### 17:00–18:00 Общее обсуждение и заседание региональной группы «Северная Евразия» фонда (документации) исчезающих языков (FEL) 
 
-Chair: Tjeerd de Graaf
+Председатель: Тьерд де Граф 
 
-#### 19:30 Dinner
+#### 19:30 Ужин
 
-### 26 November 2016
 
-Post-conference programme
+### 26 ноября 2016 г.
 
-Excursion to Lovozero (place and time t.b.a)
+Культурная программа
+
+Экскурсия в с. Ловозеро (время и место будут уточнены) 

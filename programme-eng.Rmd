@@ -15,22 +15,27 @@ output:
 
 International scientific conference organized within the framework of the Regional Interest Group «Northern Eurasia» of the Foundation for Endangered Languages (FEL)
 
+
 ## Date
 
 Murmansk, 25–26 November 2016
 
+
 ## Venue
 
 [Murmansk Arctic State University](http://www.mspu.edu.ru), Murmansk, Russia
+
 
 ## Contact
 
 * Alexandra Ershtadt [alexandra.ershtadt@gmail.com]
 * Michael Rießler [m.riessler@gmail.com]
 
+
 ## Programme
 
-The conference coincides with the Film & TV Festival "Northern Character" taking place from 24-26 November 2016 in Murmansk. Participants are invited to a presentation of a documentary film on the evening before the conference. After the conference, we are organizing an excursion to Lovozero.
+The conference coincides with the Film & TV Festival "[Northern Character](http://northchar.ru/festival_/)" taking place from 24-26 November 2016 in Murmansk. Participants are invited to a presentation of a documentary film on the evening before the conference. After the conference, we will organize an excursion to Lovozero.
+
 
 ### 24 November 2016
 
@@ -38,15 +43,16 @@ Pre-conference programme
 
 Film documentary (place and time t.b.a)
 
+
 ### 25 November 2016
 
 Conference day
 
-##### 09:00 Opening speeches
+#### 09:00 Opening speeches
 
 Murmansk Arctic State University, City-twinning Murmansk-Groningen and Fryske Academy
 
-##### 09:30 Plenary speech
+#### 09:30 Plenary speech
 
 Marina Ljublinskaya and Maria Dugina (St. Petersburg)
 
@@ -60,35 +66,35 @@ Chair: Olga Ivanischeva
 
 Chair: Michael Rießler
 
-##### 11:00 A. D. Kaksin (Abakan)
+##### 11:00 Olga Kazakevich (Moscow)
 
-Проблемы перевода общественно-политической лексики на языки малочисленных народов Российской Федерации (на примере хантыйского языка)
+Evenki local dialects of Irkutsk region: current linguistic situation and future prospectives
 
-##### 11:30 В. Г. Белолюбская, А. А. Винокурова, С. Д. Винокурова, Н. П. Николаева (Yakutsk)
+##### 11:30 Varvara Belolyubskaya, Antonina Vinokurova, Sargylana Vinokurova, N. Nikolaeva (Yakutsk)
 
 Лексика, отражающая охотничью культуру эвенов и эвенков
 
-##### 12:00 Tim Feist (Gilford)
+##### 12:00 Evgeniya Zhivotova (Leipzig)
 
-Data visualisations as a pedagogical tool
+Роль документации быстринского говора эвенского языка на примере заимствований служебных слов в ситуации языкового контакта
 
 #### 12:30–13:30 Lunch
 
 #### 13:30–15:00 Session
 
-Chair: Rogier Blokland
+Chair: Tjeerd de Graaf
 
-##### 13:30 Olga Kazakevich (Moscow)
+##### 13:30 Olga Ivanischeva, Alexandra Ershtadt (Murmansk)
 
-Evenki local dialects of Irkutsk region: current linguistic situation and future prospectives
+Title t.b.a.
 
-##### 14:00 T. B. Agranat (Moscow)
+##### 14:00 Tim Feist (Gilford)
 
-Документирование идиома печорских сето
+Data visualisations as a pedagogical tool
 
-##### 14:30 Evgeniya Zhivotova (Leipzig)
+##### 14:30 Julia Normanskaya (Moscow)
 
-Роль документации быстринского говора эвенского языка на примере заимствований служебных слов в ситуации языкового контакта
+Язык первого кильдинского Евангелия  в сравнении с современными кильдинскими говорами
 
 #### 15:00–15:30 Break
 
@@ -96,13 +102,13 @@ Evenki local dialects of Irkutsk region: current linguistic situation and future
 
 Chair: Alexandra Ershtadt
 
-##### 15:30 Yulia Normanskya (Moscow)
+##### 15:30 Tatyana Agranat (Moscow)
 
-Язык первого кильдинского Евангелия  в сравнении с современными кильдинскими говорами
+Документирование идиома печорских сето
 
-##### 16:30 ??
+##### 16:30 Andrey Kaksin (Abakan)
 
-(Open slot)
+Проблемы перевода общественно-политической лексики на языки малочисленных народов Российской Федерации (на примере хантыйского языка)
 
 ##### 16:30 Alexandre Arkhipov (Hamburg)
 
@@ -114,8 +120,7 @@ Chair: Tjeerd de Graaf
 
 #### 19:30 Dinner
 
-### 26 November 2016
 
-Post-conference programme
+### 26 November 2016
 
 Excursion to Lovozero (place and time t.b.a)
