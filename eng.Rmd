@@ -13,25 +13,30 @@ output:
 
 [Documentation, Standardization and Teaching of Endangered Languages in Northern Eurasia](http://langdoc.github.io/RIGNE2016/eng.html)
 
-International scientific conference organized within the framework of the Regional Interest Group «Northern Eurasia» of the Foundation for Endangered Languages (FEL)
+International scientific conference organized within the framework of the Regional Interest Group «Northern Eurasia» of the [Foundation for Endangered Languages (FEL)](http://www.ogmios.org/)
+
 
 ## Date
 
 Murmansk, 25–26 November 2016
 
+
 ## Venue
 
 [Murmansk Arctic State University](http://www.mspu.edu.ru), Murmansk, Russia
 
+
 ## Invited speakers
 
 Marina Lublinskaya and Maria Dugina, Herzen University, St. Petersburg, Russia
+
 
 ## Organizers
 
 * Olga Ivanisheva, Saami Laboratory, Murmansk Arctic State University, Russia;
 * Tjeerd de Graaf, Centre for Russian Studies, Groningen University, The Netherlands;
 * Michael Rießler, Freiburg Research Group in Saami Studies, University of Freiburg, Germany
+
 
 ## Program committee
 
@@ -41,26 +46,10 @@ Marina Lublinskaya and Maria Dugina, Herzen University, St. Petersburg, Russia
 * Andrey Filchenko, Department of Siberian Indigenous Languages of Tomsk State Pedagogical University, Russia;
 * Reetta Toivanen, The Erik Castrén Institute of International Law and Human Rights, University of Helsinki, Finland
 
-## Contact
-
-* Alexandra Ershtadt [alexandra.ershtadt@gmail.com]
-* Michael Rießler [m.riessler@gmail.com]
-
-## Schedule
-
-* 2016-04-30 First call for papers
-* 2016-05-31 Second call for papers
-* 2016-07-31 Deadline for the submission of abstracts
-* 2016-08-31 Notification of acceptance of submitted abstracts
-* 2016-09-30 Finalizing and publication of the program
-* 2016-11-10 Submissions of the first written versions of the papers
-* 2016-11-25 Symposium starts
-* 2016-11-30 Submission of final written versions of the papers for publication
-* 2017-01-31 Publication of proceedings
 
 ## Description
 
-The [Foundation for Endangered Languages](http://www.ogmios.org/) exists to support, enable and assist the documentation, protection and promotion of endangered languages worldwide. One of the possibilities to accomplish this is to bring specialists together in a Regional Interest Group with representatives of certain endangered languages communities in a specific area of the world. The aim of the conference in Murmansk is to initiate such a group specifically for Northern Eurasia. This group will be devoted to the study of and work with the endangered language communities in the arctic and subarctic regions between Fennoscandia and the Pacific Rim. At present the numerous and linguistically diverse indigenous languages in this area are highly vulnerable and may even face extinction if no effective measures are taken soon to ensure their better documentation, preservation and revitalization. 
+The [Foundation for Endangered Languages](http://www.ogmios.org/) exists to support, enable and assist the documentation, protection and promotion of endangered languages worldwide. One of the possibilities to accomplish this is to bring specialists together in a Regional Interest Group with representatives of certain endangered languages communities in a specific area of the world. The aim of the conference «RIGNE2016» in Murmansk is to initiate such a group specifically for Northern Eurasia. This group will be devoted to the study of and work with the endangered language communities in the arctic and subarctic regions between Fennoscandia and the Pacific Rim. At present the numerous and linguistically diverse indigenous languages in this area are highly vulnerable and may even face extinction if no effective measures are taken soon to ensure their better documentation, preservation and revitalization. 
 
 Language documentation, language planning and language teaching are different endeavors belonging the separate subfields of applied linguistics. In the case of endangered indigenous languages, however, there is considerable overlap often as a result of the scarce material and personal resources for carrying out research, which is most typically bundled in relatively few projects, academic institutions or scientific networks. On the other hand, consistent collaboration across these fields of research has already produced valuable synergy effects resulting in methodological and theoretical advances in each single field. 
 
@@ -68,6 +57,104 @@ The conference focuses on the applied character of research on and for indigenou
 
 The symposium is organized as a result of collaboration between academic institutions based in Russia and the Netherlands: specifically the Murmansk Arctic State University and the Mercator Research Centre of the Fryske Akademy, the Department of Frisian Language and Culture and the Centre for Russian Studies of Groningen University. In this way further international relations between Murmansk and Groningen can hopefully be established in the future and the event can thus also contribute to the official city partnership between Murmansk and Groningen.
 
-Conference contributions can be in Russian or English and will consist of 30 minute paper presentations followed by 10 minutes of discussion. All abstracts submitted by e-mail to the organizers by the end of August 2016 will be considered. If we receive more abstracts than available time slots during the conference the organizers and members of the program committee will make a selection based on the quality of the proposed papers. Abstracts should not be longer than 500 words, excluding references. 
 
-On the basis of the accepted abstracts and a few invited presentations the conference program will be prepared and further details will be provided in fall 2016.
+## Programme
+
+The conference coincides with the Film & TV Festival «[Northern Character](http://northchar.ru/festival_/)» taking place from 24-26 November 2016 in Murmansk. Participants are invited to a presentation of a documentary film on the evening before the conference. After the conference, we will organize an excursion to Lovozero.
+
+
+### 24 November 2016
+
+Pre-conference programme
+
+Film documentary (place and time t.b.a)
+
+
+### 25 November 2016
+
+Conference day
+
+#### 09:00 Opening speeches
+
+Murmansk Arctic State University, City-twinning Murmansk-Groningen and Fryske Academy
+
+#### 09:30 Plenary speech
+
+Marina Lublinskaya and Maria Dugina (St. Petersburg)
+
+Teaching of Northern Indigenous Languages at Gercen University
+
+Chair: Olga Ivanischeva
+
+#### 10:30–11:00 Break
+
+#### 11:00–13:00 Session
+
+Chair: Michael Rießler
+
+##### 11:00 Olga Kazakevich (Moscow)
+
+Evenki local dialects of Irkutsk region: current linguistic situation and future prospectives
+
+##### 11:30 Varvara Belolyubskaya, Antonina Vinokurova, Sargylana Vinokurova, N. Nikolaeva (Yakutsk)
+
+Лексика, отражающая охотничью культуру эвенов и эвенков
+
+##### 12:00 Evgeniya Zhivotova (Leipzig)
+
+Роль документации быстринского говора эвенского языка на примере заимствований служебных слов в ситуации языкового контакта
+
+#### 12:30–13:30 Lunch
+
+#### 13:30–15:00 Session
+
+Chair: Tjeerd de Graaf
+
+##### 13:30 Olga Ivanischeva (Murmansk)
+
+Тематические группы «Растения», «Рыбы», «Рельеф» и «Вода» в кильдинском саамском языке
+
+##### 14:00 Tim Feist (Gilford)
+
+Data visualisations as a pedagogical tool
+
+##### 14:30 Julia Normanskaya (Moscow)
+
+Язык первого кильдинского Евангелия в сравнении с современными кильдинскими говорами
+
+#### 15:00–15:30 Break
+
+#### 15:30–17:00 Session
+
+Chair: Alexandra Ershtadt
+
+##### 15:30 Tatyana Agranat (Moscow)
+
+Документирование идиома печорских сето
+
+##### 16:30 Andrey Kaksin (Abakan)
+
+Проблемы перевода общественно-политической лексики на языки малочисленных народов Российской Федерации (на примере хантыйского языка)
+
+##### 16:30 Alexandre Arkhipov (Hamburg)
+
+The INEL project: Research infrastructure for Northern Eurasian languages
+
+#### 17:00–18:00 General discussion and foundation meeting of the Regional Interest Group «Northern Eurasia»
+
+Chair: Tjeerd de Graaf
+
+#### 19:30 Dinner
+
+
+### 26 November 2016
+
+Excursion to Lovozero (place and time t.b.a)
+
+
+## Contact
+
+* Alexandra Ershtadt [alexandra.ershtadt@gmail.com]
+* Michael Rießler [m.riessler@gmail.com]
+
+
